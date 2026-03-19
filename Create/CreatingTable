@@ -1,0 +1,10 @@
+Syntax--------> Create table tablename(column name dataype constraints);
+
+// Creating table student 
+
+Create table Student(
+Name varchar(10) not null,
+Rollno int primary key,
+ContactNumber int,
+Address varchar(20) not null
+);
