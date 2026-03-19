@@ -1,0 +1,5 @@
+// Creating Database in MySQL
+
+Create database as StudentInfo;
+
+Create database as StudentInfo If not exists;
